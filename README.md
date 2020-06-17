@@ -6,9 +6,9 @@
 2. [Data](#Data)
 3. [Visualization of Dataset](#Visualization%20of%20Dataset)
 4. [Decomposition](#Decomposition) 
-5. [Recurrent Neural Network Model](#Recurrent%20Neural%20Network%20Model:) 
-6. [Long Short Term Memory (LSTM) Model](#Long%20Short%20Term%20Memory%20(LSTM)%20Model:)
-7. [Exponential Smoothing for Time Series Forecasting Model (ETS)](#Exponential%20Smoothing%20for%20Time%20Series%20Forecasting%20Model%20(ETS):)
+5. [Recurrent Neural Network Model](#Recurrent%20Neural%20Network%20Model) 
+6. [Long Short Term Memory (LSTM) Model](#Long%20Short%20Term%20Memory%20(LSTM)%20Model)
+7. [Exponential Smoothing for Time Series Forecasting Model (ETS)](#Exponential%20Smoothing%20for%20Time%20Series%20Forecasting%20Model%20(ETS))
 8. [Auto Regressive Integrated Moving Average (ARIMA) Model](#Auto%20Regressive%20Integrated%20Moving%20Average%20(ARIMA) Model)
 ---
 ## Overview
